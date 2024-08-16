@@ -1,16 +1,5 @@
 # your_calci
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Calculatator with themes.![Screenshot_1723758284](https://github.com/user-attachments/assets/e1ae4f6d-40f8-4de2-9bc7-11606f70e163)
+![Screenshot_1723758280](https://github.com/user-attachments/assets/6ca2684a-68b9-4c13-bc37-d8204f100224)
+![Screenshot_1723758278](https://github.com/user-attachments/assets/fee3ff99-8d20-42d5-92f8-7b3254706657)
